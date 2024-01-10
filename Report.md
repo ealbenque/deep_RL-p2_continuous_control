@@ -2,6 +2,7 @@
 
 ## Implementation
 The resolution of the environment involves the utilization of a deep reinforcement learning agent.
+The version 2 of the environment is solved here, with 20 parallel agents.
 The corresponding implementation is available in the continuous_control folder :
 * continuous_control.ipynb contains the main code with the training loop and results
 * agent.py contains the reinforcement learning agent
